@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Fajar Andikha 👋
 
-<!--
-**lihaong/lihaong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I’m a passionate **Data Engineer** with a focus on **Python**, **SQL**, and **AI**. I’m continuously learning and exploring new technologies to solve complex problems. I'm currently working on a project for hand sign recognition using deep learning and keypoint extraction!
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- **Data Engineering** (Airflow, dbt, Spark)
+- **Machine Learning & AI** (TensorFlow, Scikit-learn)
+- **Cloud Platforms** (Google Cloud, AWS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 How to Reach Me
+- Email: mfajarandikhaa@gmail.com
+- LinkedIn: [[linkedin.com/in/fajar-andikha](https://www.linkedin.com/in/fajar-andikha)](https://www.linkedin.com/in/muhammadfajarandikha/)
+
+## ⚡ Fun Fact
+I love to solve New York Times Games!
+
