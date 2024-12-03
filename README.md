@@ -4,9 +4,9 @@
 I’m a passionate **Data Engineer** with a focus on **Python**, **SQL**, and **AI**. I’m continuously learning and exploring new technologies to solve complex problems. I'm currently working on a project for hand sign recognition using deep learning and keypoint extraction!
 
 ## 🌱 Currently Learning
-- **Data Engineering** (Airflow, dbt, Spark)
+- **Data Engineering** (Airflow, dbt, Mage AI)
 - **Machine Learning & AI** (TensorFlow, Scikit-learn)
-- **Cloud Platforms** (Google Cloud, AWS)
+- **Cloud Platforms** (Google Cloud Platform)
 
 ## 💬 How to Reach Me
 - Email: mfajarandikhaa@gmail.com
